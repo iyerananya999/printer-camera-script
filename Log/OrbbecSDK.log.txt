@@ -1,0 +1,492 @@
+[06/09 10:21:36.528694][info][7268][DeviceManager.cpp:25] Current found device(s): (1)
+[06/09 10:21:36.528757][info][7268][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 10:21:36.528768][info][7268][DeviceManager.cpp:405] Enable net device enumeration: true
+[06/09 10:21:37.573804][info][7268][DeviceManager.cpp:25] Current device(s) list: (1)
+[06/09 10:21:37.573888][info][7268][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 10:21:37.861576][info][7268][G330Device.cpp:566] UVCAutoRebootOnFault=true for device: Gemini 335
+[06/09 10:21:38.346832][info][7268][DeviceBase.cpp:665] key: AppSlot,value:2
+[06/09 10:21:38.346871][info][7268][DeviceBase.cpp:665] key: HwType,value:R1
+[06/09 10:21:38.346875][info][7268][DeviceBase.cpp:665] key: HwVer,value:V1.1
+[06/09 10:21:38.346878][info][7268][DeviceBase.cpp:665] key: IspFwVer,value:20241125
+[06/09 10:21:38.346880][info][7268][DeviceBase.cpp:665] key: IspNeedVer,value:20241125
+[06/09 10:21:38.346883][info][7268][DeviceBase.cpp:665] key: PresetVer,value:1.2.2
+[06/09 10:21:38.867388][info][7268][DeviceManager.cpp:199] Device created successfully! Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN FW: 1.4.60
+[06/09 10:21:38.869606][info][7268][Pipeline.cpp:54] [CP0E853000GN] Pipeline created with device: {name: Gemini 335, sn: CP0E853000GN}, @0x2067839A210
+[06/09 10:21:39.386075][info][7268][Pipeline.cpp:228] [CP0E853000GN] Check and set config done!
+[06/09 10:21:39.386991][warning][7268][ObException.cpp:26] A recoverable_exception has occurred!
+ - where: FrameProcessor.cpp(230)
+ - msg: Current stream profile is not support hardware d2c process
+ - type: INVALID_VALUE
+ - status: 100
+[06/09 10:21:39.434732][info][7268][Pipeline.cpp:65] [CP0E853000GN] Pipeline destroyed! @0x2067839A210
+[06/09 10:21:39.435220][info][7268][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 10:21:39.447507][info][7268][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 10:22:45.172177][info][30144][DeviceManager.cpp:25] Current found device(s): (1)
+[06/09 10:22:45.172226][info][30144][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 10:22:45.172236][info][30144][DeviceManager.cpp:405] Enable net device enumeration: true
+[06/09 10:22:46.204165][info][30144][DeviceManager.cpp:25] Current device(s) list: (1)
+[06/09 10:22:46.204219][info][30144][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 10:22:46.480855][info][30144][G330Device.cpp:566] UVCAutoRebootOnFault=true for device: Gemini 335
+[06/09 10:22:46.669310][info][30144][DeviceBase.cpp:665] key: AppSlot,value:2
+[06/09 10:22:46.669319][info][30144][DeviceBase.cpp:665] key: HwType,value:R1
+[06/09 10:22:46.669320][info][30144][DeviceBase.cpp:665] key: HwVer,value:V1.1
+[06/09 10:22:46.669321][info][30144][DeviceBase.cpp:665] key: IspFwVer,value:20241125
+[06/09 10:22:46.669322][info][30144][DeviceBase.cpp:665] key: IspNeedVer,value:20241125
+[06/09 10:22:46.669324][info][30144][DeviceBase.cpp:665] key: PresetVer,value:1.2.2
+[06/09 10:22:46.753650][warning][35460][ObException.cpp:26] A recoverable_exception has occurred!
+ - where: GlobalTimestampFitter.cpp(267)
+ - msg: RTT too large
+ - type: UNKNOWN
+ - status: 101
+[06/09 10:22:47.043381][info][30144][DeviceManager.cpp:199] Device created successfully! Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN FW: 1.4.60
+[06/09 10:22:47.043465][info][30144][Pipeline.cpp:54] [CP0E853000GN] Pipeline created with device: {name: Gemini 335, sn: CP0E853000GN}, @0x22C97EEC360
+[06/09 10:22:47.214256][info][30144][Pipeline.cpp:228] [CP0E853000GN] Check and set config done!
+[06/09 10:22:47.214312][warning][30144][ObException.cpp:26] A recoverable_exception has occurred!
+ - where: FrameProcessor.cpp(230)
+ - msg: Current stream profile is not support hardware d2c process
+ - type: INVALID_VALUE
+ - status: 100
+[06/09 10:22:47.233649][info][30144][Pipeline.cpp:65] [CP0E853000GN] Pipeline destroyed! @0x22C97EEC360
+[06/09 10:22:47.233890][info][30144][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 10:22:47.238463][info][30144][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 10:24:43.757395][info][23984][DeviceManager.cpp:25] Current found device(s): (1)
+[06/09 10:24:43.757455][info][23984][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 10:24:43.757470][info][23984][DeviceManager.cpp:405] Enable net device enumeration: true
+[06/09 10:24:44.795742][info][23984][DeviceManager.cpp:25] Current device(s) list: (1)
+[06/09 10:24:44.795771][info][23984][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 10:24:45.055966][info][23984][G330Device.cpp:566] UVCAutoRebootOnFault=true for device: Gemini 335
+[06/09 10:24:45.325620][info][23984][DeviceBase.cpp:665] key: AppSlot,value:2
+[06/09 10:24:45.325651][info][23984][DeviceBase.cpp:665] key: HwType,value:R1
+[06/09 10:24:45.325652][info][23984][DeviceBase.cpp:665] key: HwVer,value:V1.1
+[06/09 10:24:45.325653][info][23984][DeviceBase.cpp:665] key: IspFwVer,value:20241125
+[06/09 10:24:45.325654][info][23984][DeviceBase.cpp:665] key: IspNeedVer,value:20241125
+[06/09 10:24:45.325655][info][23984][DeviceBase.cpp:665] key: PresetVer,value:1.2.2
+[06/09 10:24:45.813139][info][23984][DeviceManager.cpp:199] Device created successfully! Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN FW: 1.4.60
+[06/09 10:24:45.813384][info][23984][Pipeline.cpp:54] [CP0E853000GN] Pipeline created with device: {name: Gemini 335, sn: CP0E853000GN}, @0x11C5C72DCF0
+[06/09 10:24:45.990822][info][23984][Pipeline.cpp:228] [CP0E853000GN] Check and set config done!
+[06/09 10:24:45.992637][info][23984][Pipeline.cpp:266] [CP0E853000GN] Try to start streams!
+[06/09 10:24:45.992678][info][23984][VideoSensor.cpp:58] [CP0E853000GN] Try to start stream: {type: Color, format: MJPG, width: 1280, height: 720, fps: 30}
+[06/09 10:24:45.993328][info][23984][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPED to STARTING@Color
+[06/09 10:24:45.993350][info][23984][VideoSensor.cpp:127] [CP0E853000GN] Start backend stream: {type: Color, format: MJPG, width: 1280, height: 720, fps: 30}
+[06/09 10:24:46.023951][info][23984][VideoSensor.cpp:58] [CP0E853000GN] Try to start stream: {type: Depth, format: Y16, width: 848, height: 480, fps: 30}
+[06/09 10:24:46.023992][info][23984][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPED to STARTING@Depth
+[06/09 10:24:46.024007][info][23984][VideoSensor.cpp:127] [CP0E853000GN] Start backend stream: {type: Depth, format: Z16, width: 848, height: 480, fps: 30}
+[06/09 10:24:46.035329][info][23984][Pipeline.cpp:293] [CP0E853000GN] Start streams done!
+[06/09 10:24:46.035344][info][23984][Pipeline.cpp:250] [CP0E853000GN] Pipeline start done!
+[06/09 10:24:46.163957][info][11516][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STARTING to STREAMING@Depth
+[06/09 10:24:46.588758][info][11516][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STARTING to STREAMING@Color
+[06/09 10:24:46.591253][warning][37784][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset!
+[06/09 10:24:49.606487][warning][41348][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**7 logs in 3015ms, last: 10:24:49.373703**]
+[06/09 10:24:51.191509][info][11516][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=30.200676fps
+[06/09 10:24:51.211000][info][38844][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=30.224697fps
+[06/09 10:24:51.591815][info][18692][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=30.181892fps
+[06/09 10:24:51.625326][info][37784][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=30.200676fps
+[06/09 10:24:55.614547][warning][18348][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**7 logs in 6008ms, last: 10:24:51.345814**]
+[06/09 10:24:56.197837][info][11516][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 10:24:56.216175][info][38844][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.970030fps
+[06/09 10:24:56.598014][info][11516][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 10:24:56.631812][info][37784][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.964043fps
+[06/09 10:25:01.203973][info][18692][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 10:25:01.227428][info][38844][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.928171fps
+[06/09 10:25:01.604752][info][26736][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.958059fps
+[06/09 10:25:01.638388][info][37784][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.958059fps
+[06/09 10:25:06.210431][info][21080][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.958059fps
+[06/09 10:25:06.258178][info][38844][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=30.019880fps
+[06/09 10:25:06.610647][info][26736][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 10:25:06.643521][info][37784][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.970030fps
+[06/09 10:25:11.214972][info][18692][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.976019fps
+[06/09 10:25:11.291500][info][38844][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.996027fps
+[06/09 10:25:11.615605][info][21080][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.970030fps
+[06/09 10:25:11.649090][info][37784][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.970030fps
+[06/09 10:25:12.021624][warning][24480][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**62 logs in 16407ms, last: 10:25:04.817484**]
+[06/09 10:25:15.490093][warning][21080][VideoSensor.cpp:187] [CP0E853000GN] This frame will be dropped because jpg format verification failure! @Color
+[06/09 10:25:16.221452][info][18692][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.958059fps
+[06/09 10:25:16.296240][info][38844][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.970030fps
+[06/09 10:25:16.621670][info][18692][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 10:25:16.654904][info][37784][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.764282fps
+[06/09 10:25:21.227099][info][24432][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.970030fps
+[06/09 10:25:21.303257][info][38844][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.958059fps
+[06/09 10:25:21.627864][info][23208][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 10:25:21.661039][info][37784][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.964043fps
+[06/09 12:00:49.441892][info][35088][DeviceManager.cpp:25] Current found device(s): (1)
+[06/09 12:00:49.441944][info][35088][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 12:00:49.441958][info][35088][DeviceManager.cpp:405] Enable net device enumeration: true
+[06/09 12:00:50.477890][info][35088][DeviceManager.cpp:25] Current device(s) list: (1)
+[06/09 12:00:50.477948][info][35088][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 12:00:50.791217][info][35088][G330Device.cpp:566] UVCAutoRebootOnFault=true for device: Gemini 335
+[06/09 12:00:50.964129][info][35088][DeviceBase.cpp:665] key: AppSlot,value:2
+[06/09 12:00:50.964143][info][35088][DeviceBase.cpp:665] key: HwType,value:R1
+[06/09 12:00:50.964146][info][35088][DeviceBase.cpp:665] key: HwVer,value:V1.1
+[06/09 12:00:50.964148][info][35088][DeviceBase.cpp:665] key: IspFwVer,value:20241125
+[06/09 12:00:50.964150][info][35088][DeviceBase.cpp:665] key: IspNeedVer,value:20241125
+[06/09 12:00:50.964152][info][35088][DeviceBase.cpp:665] key: PresetVer,value:1.2.2
+[06/09 12:00:51.468942][info][35088][DeviceManager.cpp:199] Device created successfully! Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN FW: 1.4.60
+[06/09 12:00:51.470408][info][35088][Pipeline.cpp:54] [CP0E853000GN] Pipeline created with device: {name: Gemini 335, sn: CP0E853000GN}, @0x1D49BD6E780
+[06/09 12:00:51.728189][info][35088][Pipeline.cpp:65] [CP0E853000GN] Pipeline destroyed! @0x1D49BD6E780
+[06/09 12:00:51.729053][info][35088][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 12:00:51.733630][info][35088][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 12:03:39.679539][info][6224][DeviceManager.cpp:25] Current found device(s): (1)
+[06/09 12:03:39.679576][info][6224][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 12:03:39.679584][info][6224][DeviceManager.cpp:405] Enable net device enumeration: true
+[06/09 12:03:40.710100][info][6224][DeviceManager.cpp:25] Current device(s) list: (1)
+[06/09 12:03:40.710156][info][6224][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 12:03:40.968620][info][6224][G330Device.cpp:566] UVCAutoRebootOnFault=true for device: Gemini 335
+[06/09 12:03:41.144543][info][6224][DeviceBase.cpp:665] key: AppSlot,value:2
+[06/09 12:03:41.144555][info][6224][DeviceBase.cpp:665] key: HwType,value:R1
+[06/09 12:03:41.144557][info][6224][DeviceBase.cpp:665] key: HwVer,value:V1.1
+[06/09 12:03:41.144558][info][6224][DeviceBase.cpp:665] key: IspFwVer,value:20241125
+[06/09 12:03:41.144560][info][6224][DeviceBase.cpp:665] key: IspNeedVer,value:20241125
+[06/09 12:03:41.144561][info][6224][DeviceBase.cpp:665] key: PresetVer,value:1.2.2
+[06/09 12:03:41.425500][info][6224][DeviceManager.cpp:199] Device created successfully! Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN FW: 1.4.60
+[06/09 12:03:41.426546][info][6224][Pipeline.cpp:54] [CP0E853000GN] Pipeline created with device: {name: Gemini 335, sn: CP0E853000GN}, @0x1F5B351F9B0
+[06/09 12:03:41.613888][info][6224][Pipeline.cpp:65] [CP0E853000GN] Pipeline destroyed! @0x1F5B351F9B0
+[06/09 12:03:41.614430][info][6224][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 12:03:41.618454][info][6224][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 12:05:07.144922][info][30900][DeviceManager.cpp:25] Current found device(s): (1)
+[06/09 12:05:07.145006][info][30900][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 12:05:07.145021][info][30900][DeviceManager.cpp:405] Enable net device enumeration: true
+[06/09 12:05:08.187743][info][30900][DeviceManager.cpp:25] Current device(s) list: (1)
+[06/09 12:05:08.187812][info][30900][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 12:05:08.464968][info][30900][G330Device.cpp:566] UVCAutoRebootOnFault=true for device: Gemini 335
+[06/09 12:05:08.724404][info][30900][DeviceBase.cpp:665] key: AppSlot,value:2
+[06/09 12:05:08.724487][info][30900][DeviceBase.cpp:665] key: HwType,value:R1
+[06/09 12:05:08.724492][info][30900][DeviceBase.cpp:665] key: HwVer,value:V1.1
+[06/09 12:05:08.724496][info][30900][DeviceBase.cpp:665] key: IspFwVer,value:20241125
+[06/09 12:05:08.724499][info][30900][DeviceBase.cpp:665] key: IspNeedVer,value:20241125
+[06/09 12:05:08.724503][info][30900][DeviceBase.cpp:665] key: PresetVer,value:1.2.2
+[06/09 12:05:09.001000][info][30900][DeviceManager.cpp:199] Device created successfully! Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN FW: 1.4.60
+[06/09 12:05:09.001094][info][30900][Pipeline.cpp:54] [CP0E853000GN] Pipeline created with device: {name: Gemini 335, sn: CP0E853000GN}, @0x195F5472600
+[06/09 12:05:09.437693][info][30900][Pipeline.cpp:228] [CP0E853000GN] Check and set config done!
+[06/09 12:05:09.440745][info][30900][Pipeline.cpp:266] [CP0E853000GN] Try to start streams!
+[06/09 12:05:09.440844][info][30900][VideoSensor.cpp:58] [CP0E853000GN] Try to start stream: {type: Color, format: MJPG, width: 1280, height: 720, fps: 30}
+[06/09 12:05:09.442329][info][30900][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPED to STARTING@Color
+[06/09 12:05:09.442383][info][30900][VideoSensor.cpp:127] [CP0E853000GN] Start backend stream: {type: Color, format: MJPG, width: 1280, height: 720, fps: 30}
+[06/09 12:05:09.500514][info][30900][VideoSensor.cpp:58] [CP0E853000GN] Try to start stream: {type: Depth, format: Y16, width: 848, height: 480, fps: 30}
+[06/09 12:05:09.500580][info][30900][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPED to STARTING@Depth
+[06/09 12:05:09.500610][info][30900][VideoSensor.cpp:127] [CP0E853000GN] Start backend stream: {type: Depth, format: Z16, width: 848, height: 480, fps: 30}
+[06/09 12:05:09.518415][info][30900][Pipeline.cpp:293] [CP0E853000GN] Start streams done!
+[06/09 12:05:09.518431][info][30900][Pipeline.cpp:250] [CP0E853000GN] Pipeline start done!
+[06/09 12:05:09.661324][info][20760][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STARTING to STREAMING@Depth
+[06/09 12:05:10.055059][info][7220][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STARTING to STREAMING@Color
+[06/09 12:05:10.057370][warning][8592][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset!
+[06/09 12:05:13.438761][warning][17360][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**6 logs in 3381ms, last: 12:05:12.304904**]
+[06/09 12:05:14.688036][info][13788][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=30.200676fps
+[06/09 12:05:14.707962][info][22080][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=30.327213fps
+[06/09 12:05:15.056157][info][3396][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.994001fps
+[06/09 12:05:15.090698][info][8592][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=30.001987fps
+[06/09 12:05:19.693468][info][36856][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 12:05:19.735072][info][22080][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=30.037796fps
+[06/09 12:05:20.061737][info][3396][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 12:05:20.095246][info][8592][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.970030fps
+[06/09 12:05:20.851923][warning][22560][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**21 logs in 7413ms, last: 12:05:19.170879**]
+[06/09 12:05:24.700049][info][36856][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 12:05:24.746344][info][22080][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.928171fps
+[06/09 12:05:25.068019][info][3396][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 12:05:25.100794][info][8592][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.970030fps
+[06/09 12:05:29.077016][info][30900][Pipeline.cpp:367] [CP0E853000GN] Try to stop pipeline!
+[06/09 12:05:29.077055][info][30900][Pipeline.cpp:343] [CP0E853000GN] Try to stop streams!
+[06/09 12:05:29.077099][info][30900][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STREAMING to STOPPING@Depth
+[06/09 12:05:29.157757][warning][3396][VideoSensor.cpp:187] [CP0E853000GN] This frame will be dropped because jpg format verification failure! @Color
+[06/09 12:05:29.228945][info][30900][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPING to STOPPED@Depth
+[06/09 12:05:29.229311][info][30900][Pipeline.cpp:357] [CP0E853000GN] Sensor stream stopped, sensorType=Depth
+[06/09 12:05:29.229330][info][30900][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STREAMING to STOPPING@Color
+[06/09 12:05:29.369524][info][30900][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPING to STOPPED@Color
+[06/09 12:05:29.369849][info][30900][Pipeline.cpp:357] [CP0E853000GN] Sensor stream stopped, sensorType=Color
+[06/09 12:05:29.369854][info][30900][Pipeline.cpp:363] [CP0E853000GN] Stop streams done!
+[06/09 12:05:29.370817][info][30900][Pipeline.cpp:392] [CP0E853000GN] Stop pipeline done!
+[06/09 12:05:30.067685][info][30900][Pipeline.cpp:65] [CP0E853000GN] Pipeline destroyed! @0x195F5472600
+[06/09 12:05:30.067952][info][30900][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 12:05:30.068066][info][30900][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 12:05:30.091157][warning][14792][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**20 logs in 9239ms, last: 12:05:25.111596**]
+[06/09 13:23:10.405288][info][9252][DeviceManager.cpp:25] Current found device(s): (1)
+[06/09 13:23:10.405748][info][9252][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 13:23:10.405774][info][9252][DeviceManager.cpp:405] Enable net device enumeration: true
+[06/09 13:23:11.446465][info][9252][DeviceManager.cpp:25] Current device(s) list: (1)
+[06/09 13:23:11.446506][info][9252][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 13:23:11.702645][info][9252][G330Device.cpp:566] UVCAutoRebootOnFault=true for device: Gemini 335
+[06/09 13:23:11.780276][info][9252][DeviceBase.cpp:665] key: AppSlot,value:2
+[06/09 13:23:11.780287][info][9252][DeviceBase.cpp:665] key: HwType,value:R1
+[06/09 13:23:11.780289][info][9252][DeviceBase.cpp:665] key: HwVer,value:V1.1
+[06/09 13:23:11.780290][info][9252][DeviceBase.cpp:665] key: IspFwVer,value:20241125
+[06/09 13:23:11.780292][info][9252][DeviceBase.cpp:665] key: IspNeedVer,value:20241125
+[06/09 13:23:11.780293][info][9252][DeviceBase.cpp:665] key: PresetVer,value:1.2.2
+[06/09 13:23:12.173283][info][9252][DeviceManager.cpp:199] Device created successfully! Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN FW: 1.4.60
+[06/09 13:23:12.174436][info][9252][Pipeline.cpp:54] [CP0E853000GN] Pipeline created with device: {name: Gemini 335, sn: CP0E853000GN}, @0x228299384A0
+[06/09 13:23:12.354041][info][9252][Pipeline.cpp:228] [CP0E853000GN] Check and set config done!
+[06/09 13:23:12.355285][info][9252][Pipeline.cpp:266] [CP0E853000GN] Try to start streams!
+[06/09 13:23:12.355319][info][9252][VideoSensor.cpp:58] [CP0E853000GN] Try to start stream: {type: Color, format: MJPG, width: 1280, height: 720, fps: 30}
+[06/09 13:23:12.355550][info][9252][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPED to STARTING@Color
+[06/09 13:23:12.355571][info][9252][VideoSensor.cpp:127] [CP0E853000GN] Start backend stream: {type: Color, format: MJPG, width: 1280, height: 720, fps: 30}
+[06/09 13:23:12.376012][info][9252][VideoSensor.cpp:58] [CP0E853000GN] Try to start stream: {type: Depth, format: Y16, width: 848, height: 480, fps: 30}
+[06/09 13:23:12.376048][info][9252][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPED to STARTING@Depth
+[06/09 13:23:12.376061][info][9252][VideoSensor.cpp:127] [CP0E853000GN] Start backend stream: {type: Depth, format: Z16, width: 848, height: 480, fps: 30}
+[06/09 13:23:12.388001][info][9252][Pipeline.cpp:293] [CP0E853000GN] Start streams done!
+[06/09 13:23:12.388048][info][9252][Pipeline.cpp:250] [CP0E853000GN] Pipeline start done!
+[06/09 13:23:12.525341][info][22128][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STARTING to STREAMING@Depth
+[06/09 13:23:12.923455][info][6476][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STARTING to STREAMING@Color
+[06/09 13:23:12.924681][warning][35716][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset!
+[06/09 13:23:17.523774][info][22128][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=30.193962fps
+[06/09 13:23:17.579497][info][22540][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=30.236723fps
+[06/09 13:23:17.924601][info][6476][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.994001fps
+[06/09 13:23:17.958566][info][35716][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=30.001987fps
+[06/09 13:23:18.938784][warning][22540][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset!
+[06/09 13:23:21.984048][warning][35352][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**23 logs in 3045ms, last: 13:23:21.371854**]
+[06/09 13:23:22.530819][info][6476][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.958059fps
+[06/09 13:23:22.578764][info][22540][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.922203fps
+[06/09 13:23:22.930870][info][35380][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 13:23:22.963898][info][35716][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.970030fps
+[06/09 13:23:24.134922][info][9252][Pipeline.cpp:367] [CP0E853000GN] Try to stop pipeline!
+[06/09 13:23:24.134955][info][9252][Pipeline.cpp:343] [CP0E853000GN] Try to stop streams!
+[06/09 13:23:24.134985][info][9252][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STREAMING to STOPPING@Depth
+[06/09 13:23:24.290538][info][9252][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPING to STOPPED@Depth
+[06/09 13:23:24.290821][info][9252][Pipeline.cpp:357] [CP0E853000GN] Sensor stream stopped, sensorType=Depth
+[06/09 13:23:24.290841][info][9252][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STREAMING to STOPPING@Color
+[06/09 13:23:24.432079][info][9252][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPING to STOPPED@Color
+[06/09 13:23:24.432392][info][9252][Pipeline.cpp:357] [CP0E853000GN] Sensor stream stopped, sensorType=Color
+[06/09 13:23:24.432398][info][9252][Pipeline.cpp:363] [CP0E853000GN] Stop streams done!
+[06/09 13:23:24.433413][info][9252][Pipeline.cpp:392] [CP0E853000GN] Stop pipeline done!
+[06/09 13:23:24.488770][info][9252][Pipeline.cpp:65] [CP0E853000GN] Pipeline destroyed! @0x228299384A0
+[06/09 13:23:24.491394][info][9252][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 13:23:24.491584][info][9252][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 13:23:41.749738][info][42372][DeviceManager.cpp:25] Current found device(s): (1)
+[06/09 13:23:41.749793][info][42372][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 13:23:41.749806][info][42372][DeviceManager.cpp:405] Enable net device enumeration: true
+[06/09 13:23:42.772212][info][42372][DeviceManager.cpp:25] Current device(s) list: (1)
+[06/09 13:23:42.772271][info][42372][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 13:23:43.050450][info][42372][G330Device.cpp:566] UVCAutoRebootOnFault=true for device: Gemini 335
+[06/09 13:23:43.163272][info][42372][DeviceBase.cpp:665] key: AppSlot,value:2
+[06/09 13:23:43.163284][info][42372][DeviceBase.cpp:665] key: HwType,value:R1
+[06/09 13:23:43.163286][info][42372][DeviceBase.cpp:665] key: HwVer,value:V1.1
+[06/09 13:23:43.163287][info][42372][DeviceBase.cpp:665] key: IspFwVer,value:20241125
+[06/09 13:23:43.163289][info][42372][DeviceBase.cpp:665] key: IspNeedVer,value:20241125
+[06/09 13:23:43.163291][info][42372][DeviceBase.cpp:665] key: PresetVer,value:1.2.2
+[06/09 13:23:43.432543][info][42372][DeviceManager.cpp:199] Device created successfully! Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN FW: 1.4.60
+[06/09 13:23:43.432659][info][42372][Pipeline.cpp:54] [CP0E853000GN] Pipeline created with device: {name: Gemini 335, sn: CP0E853000GN}, @0x1AF4378B650
+[06/09 13:23:43.605359][info][42372][Pipeline.cpp:228] [CP0E853000GN] Check and set config done!
+[06/09 13:23:43.606640][info][42372][Pipeline.cpp:266] [CP0E853000GN] Try to start streams!
+[06/09 13:23:43.606674][info][42372][VideoSensor.cpp:58] [CP0E853000GN] Try to start stream: {type: Color, format: MJPG, width: 1280, height: 720, fps: 30}
+[06/09 13:23:43.606700][info][42372][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPED to STARTING@Color
+[06/09 13:23:43.606708][info][42372][VideoSensor.cpp:127] [CP0E853000GN] Start backend stream: {type: Color, format: MJPG, width: 1280, height: 720, fps: 30}
+[06/09 13:23:43.621120][info][42372][VideoSensor.cpp:58] [CP0E853000GN] Try to start stream: {type: Depth, format: Y16, width: 848, height: 480, fps: 30}
+[06/09 13:23:43.621161][info][42372][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPED to STARTING@Depth
+[06/09 13:23:43.621176][info][42372][VideoSensor.cpp:127] [CP0E853000GN] Start backend stream: {type: Depth, format: Z16, width: 848, height: 480, fps: 30}
+[06/09 13:23:43.632490][info][42372][Pipeline.cpp:293] [CP0E853000GN] Start streams done!
+[06/09 13:23:43.632502][info][42372][Pipeline.cpp:250] [CP0E853000GN] Pipeline start done!
+[06/09 13:23:43.755374][info][15236][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STARTING to STREAMING@Depth
+[06/09 13:23:44.185199][info][36784][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STARTING to STREAMING@Color
+[06/09 13:23:44.186210][warning][41100][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset!
+[06/09 13:23:48.756444][info][16664][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=30.169830fps
+[06/09 13:23:48.769987][info][27680][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=30.193962fps
+[06/09 13:23:49.190156][info][7140][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=30.169830fps
+[06/09 13:23:49.190325][info][41100][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=30.175858fps
+[06/09 13:23:53.762045][info][16664][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.970030fps
+[06/09 13:23:53.805981][info][27680][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.984116fps
+[06/09 13:23:54.198078][info][36784][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.952078fps
+[06/09 13:23:54.198399][info][41100][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.952078fps
+[06/09 13:23:58.768516][info][7140][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.958059fps
+[06/09 13:23:58.808920][info][27680][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.982012fps
+[06/09 13:23:59.202076][info][36784][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.976019fps
+[06/09 13:23:59.202388][info][41100][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.976019fps
+[06/09 13:24:03.773878][info][7140][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.970030fps
+[06/09 13:24:03.817594][info][27680][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.946098fps
+[06/09 13:24:04.207629][info][7140][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 13:24:04.207853][info][41100][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.970030fps
+[06/09 13:24:06.564337][warning][27680][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset!
+[06/09 13:24:08.783151][info][36784][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.946098fps
+[06/09 13:24:08.833660][info][27680][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.904308fps
+[06/09 13:24:09.213623][info][15236][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 13:24:09.213824][info][41100][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.964043fps
+[06/09 13:24:09.611244][warning][43404][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**3 logs in 3046ms, last: 13:24:06.655047**]
+[06/09 13:24:13.785967][info][15236][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.982012fps
+[06/09 13:24:13.838937][info][27680][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.970030fps
+[06/09 13:24:14.220004][info][36784][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 13:24:14.220267][info][41100][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.958059fps
+[06/09 13:24:15.778539][warning][27680][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**3 logs in 6167ms**]
+[06/09 13:24:18.792118][info][17176][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 13:24:18.847256][info][27680][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.946098fps
+[06/09 13:24:19.225554][info][16664][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 13:24:19.225743][info][41100][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.970030fps
+[06/09 13:24:23.798488][info][16664][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.958059fps
+[06/09 13:24:23.853427][info][27680][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.964043fps
+[06/09 13:24:24.231660][info][17176][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 13:24:24.231944][info][41100][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.964043fps
+[06/09 13:24:28.185597][warning][7528][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**5 logs in 12407ms, last: 13:24:24.120373**]
+[06/09 13:24:28.803412][info][36784][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.970030fps
+[06/09 13:24:28.865965][info][27680][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.928171fps
+[06/09 13:24:29.237782][info][17176][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 13:24:29.238970][info][41100][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.958059fps
+[06/09 13:24:32.604605][info][42372][Pipeline.cpp:367] [CP0E853000GN] Try to stop pipeline!
+[06/09 13:24:32.604704][info][42372][Pipeline.cpp:343] [CP0E853000GN] Try to stop streams!
+[06/09 13:24:32.604781][info][42372][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STREAMING to STOPPING@Depth
+[06/09 13:24:32.765074][info][42372][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPING to STOPPED@Depth
+[06/09 13:24:32.765364][info][42372][Pipeline.cpp:357] [CP0E853000GN] Sensor stream stopped, sensorType=Depth
+[06/09 13:24:32.765384][info][42372][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STREAMING to STOPPING@Color
+[06/09 13:24:32.921868][info][42372][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPING to STOPPED@Color
+[06/09 13:24:32.922167][info][42372][Pipeline.cpp:357] [CP0E853000GN] Sensor stream stopped, sensorType=Color
+[06/09 13:24:32.922173][info][42372][Pipeline.cpp:363] [CP0E853000GN] Stop streams done!
+[06/09 13:24:32.923198][info][42372][Pipeline.cpp:392] [CP0E853000GN] Stop pipeline done!
+[06/09 13:24:32.949754][info][42372][Pipeline.cpp:65] [CP0E853000GN] Pipeline destroyed! @0x1AF4378B650
+[06/09 13:24:32.950034][info][42372][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 13:24:32.950168][info][42372][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 13:58:46.312383][info][42604][DeviceManager.cpp:25] Current found device(s): (1)
+[06/09 13:58:46.312434][info][42604][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 13:58:46.312446][info][42604][DeviceManager.cpp:405] Enable net device enumeration: true
+[06/09 13:58:47.336056][info][42604][DeviceManager.cpp:25] Current device(s) list: (1)
+[06/09 13:58:47.336098][info][42604][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 13:58:47.610163][info][42604][G330Device.cpp:566] UVCAutoRebootOnFault=true for device: Gemini 335
+[06/09 13:58:47.710363][info][42604][DeviceBase.cpp:665] key: AppSlot,value:2
+[06/09 13:58:47.710397][info][42604][DeviceBase.cpp:665] key: HwType,value:R1
+[06/09 13:58:47.710399][info][42604][DeviceBase.cpp:665] key: HwVer,value:V1.1
+[06/09 13:58:47.710400][info][42604][DeviceBase.cpp:665] key: IspFwVer,value:20241125
+[06/09 13:58:47.710402][info][42604][DeviceBase.cpp:665] key: IspNeedVer,value:20241125
+[06/09 13:58:47.710403][info][42604][DeviceBase.cpp:665] key: PresetVer,value:1.2.2
+[06/09 13:58:48.103752][info][42604][DeviceManager.cpp:199] Device created successfully! Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN FW: 1.4.60
+[06/09 13:58:48.105015][info][42604][Pipeline.cpp:54] [CP0E853000GN] Pipeline created with device: {name: Gemini 335, sn: CP0E853000GN}, @0x23AC7EB7F10
+[06/09 13:58:48.293657][info][42604][Pipeline.cpp:228] [CP0E853000GN] Check and set config done!
+[06/09 13:58:48.295261][info][42604][Pipeline.cpp:266] [CP0E853000GN] Try to start streams!
+[06/09 13:58:48.295326][info][42604][VideoSensor.cpp:58] [CP0E853000GN] Try to start stream: {type: Color, format: MJPG, width: 1280, height: 720, fps: 30}
+[06/09 13:58:48.295669][info][42604][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPED to STARTING@Color
+[06/09 13:58:48.295684][info][42604][VideoSensor.cpp:127] [CP0E853000GN] Start backend stream: {type: Color, format: MJPG, width: 1280, height: 720, fps: 30}
+[06/09 13:58:48.316482][info][42604][VideoSensor.cpp:58] [CP0E853000GN] Try to start stream: {type: Depth, format: Y16, width: 848, height: 480, fps: 30}
+[06/09 13:58:48.316517][info][42604][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPED to STARTING@Depth
+[06/09 13:58:48.316530][info][42604][VideoSensor.cpp:127] [CP0E853000GN] Start backend stream: {type: Depth, format: Z16, width: 848, height: 480, fps: 30}
+[06/09 13:58:48.326497][info][42604][Pipeline.cpp:293] [CP0E853000GN] Start streams done!
+[06/09 13:58:48.326509][info][42604][Pipeline.cpp:250] [CP0E853000GN] Pipeline start done!
+[06/09 13:58:48.464154][info][33440][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STARTING to STREAMING@Depth
+[06/09 13:58:48.863819][info][36952][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STARTING to STREAMING@Color
+[06/09 13:58:48.865553][warning][12372][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset!
+[06/09 13:58:53.008552][warning][14288][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset!
+[06/09 13:58:53.463885][info][30280][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=30.187925fps
+[06/09 13:58:53.526805][info][14288][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=30.206676fps
+[06/09 13:58:53.865855][info][33440][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.988007fps
+[06/09 13:58:53.899352][info][12372][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.996027fps
+[06/09 13:58:56.049466][warning][36272][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**53 logs in 3040ms, last: 13:58:54.776560**]
+[06/09 13:58:58.470368][info][36952][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.958059fps
+[06/09 13:58:58.512600][info][14288][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.988007fps
+[06/09 13:58:58.871529][info][36952][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 13:58:58.904963][info][12372][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.970030fps
+[06/09 13:59:02.082781][warning][14288][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**10 logs in 6033ms**]
+[06/09 13:59:03.475906][info][30280][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.970030fps
+[06/09 13:59:03.518889][info][14288][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.964043fps
+[06/09 13:59:03.876922][info][2876][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.970030fps
+[06/09 13:59:03.910539][info][12372][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.964043fps
+[06/09 13:59:08.481528][info][24508][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 13:59:08.526010][info][14288][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.958059fps
+[06/09 13:59:08.882738][info][36952][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 13:59:08.916246][info][12372][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.964043fps
+[06/09 13:59:13.488369][info][24508][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.958059fps
+[06/09 13:59:13.542549][info][14288][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.898344fps
+[06/09 13:59:13.889519][info][30280][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.958059fps
+[06/09 13:59:13.922978][info][12372][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.964043fps
+[06/09 13:59:14.121924][warning][24796][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**68 logs in 12039ms, last: 13:59:13.975969**]
+[06/09 13:59:18.493241][info][2876][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.976019fps
+[06/09 13:59:18.568498][info][14288][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=30.043772fps
+[06/09 13:59:18.894836][info][36952][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.970030fps
+[06/09 13:59:18.928060][info][12372][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.970030fps
+[06/09 13:59:23.499483][info][2876][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.958059fps
+[06/09 13:59:23.576476][info][14288][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.952078fps
+[06/09 13:59:23.900778][info][2876][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 13:59:23.934023][info][12372][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.964043fps
+[06/09 13:59:28.505229][info][30280][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.970030fps
+[06/09 13:59:28.584408][info][14288][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.952078fps
+[06/09 13:59:28.906590][info][30280][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 13:59:28.940000][info][12372][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.964043fps
+[06/09 13:59:33.511192][info][30280][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 13:59:33.588344][info][14288][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.976019fps
+[06/09 13:59:33.912590][info][36952][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 13:59:33.946837][info][12372][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.958059fps
+[06/09 13:59:38.193099][warning][14288][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**4 logs in 24071ms**]
+[06/09 13:59:38.516855][info][2876][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 13:59:38.592644][info][14288][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.976019fps
+[06/09 13:59:38.918005][info][30280][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.970030fps
+[06/09 13:59:38.951920][info][12372][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.970030fps
+[06/09 13:59:43.523280][info][30280][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.958059fps
+[06/09 13:59:43.600557][info][14288][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.952078fps
+[06/09 13:59:43.924738][info][36952][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.958059fps
+[06/09 13:59:43.957887][info][12372][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.964043fps
+[06/09 13:59:48.528800][info][36952][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.970030fps
+[06/09 13:59:48.609289][info][14288][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.946098fps
+[06/09 13:59:48.930374][info][36952][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 13:59:48.964391][info][12372][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.958059fps
+[06/09 13:59:53.534781][info][33440][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 13:59:53.610339][info][14288][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.994001fps
+[06/09 13:59:53.936171][info][30280][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.970030fps
+[06/09 13:59:53.969008][info][12372][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.976019fps
+[06/09 13:59:55.247071][info][42604][Pipeline.cpp:367] [CP0E853000GN] Try to stop pipeline!
+[06/09 13:59:55.247109][info][42604][Pipeline.cpp:343] [CP0E853000GN] Try to stop streams!
+[06/09 13:59:55.247148][info][42604][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STREAMING to STOPPING@Depth
+[06/09 13:59:55.397951][info][42604][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPING to STOPPED@Depth
+[06/09 13:59:55.398267][info][42604][Pipeline.cpp:357] [CP0E853000GN] Sensor stream stopped, sensorType=Depth
+[06/09 13:59:55.398286][info][42604][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STREAMING to STOPPING@Color
+[06/09 13:59:55.536645][info][42604][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPING to STOPPED@Color
+[06/09 13:59:55.536923][info][42604][Pipeline.cpp:357] [CP0E853000GN] Sensor stream stopped, sensorType=Color
+[06/09 13:59:55.536929][info][42604][Pipeline.cpp:363] [CP0E853000GN] Stop streams done!
+[06/09 13:59:55.537860][info][42604][Pipeline.cpp:392] [CP0E853000GN] Stop pipeline done!
+[06/09 13:59:55.585057][info][42604][Pipeline.cpp:65] [CP0E853000GN] Pipeline destroyed! @0x23AC7EB7F10
+[06/09 13:59:55.587727][info][42604][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 13:59:55.587937][info][42604][SensorBase.cpp:47] [CP0E853000GN] SensorBase is destroyed
+[06/09 13:59:55.828589][warning][1272][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**33 logs in 17635ms, last: 13:59:49.440837**]
+[06/09 14:38:53.031002][info][19684][DeviceManager.cpp:25] Current found device(s): (1)
+[06/09 14:38:53.031057][info][19684][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 14:38:53.031069][info][19684][DeviceManager.cpp:405] Enable net device enumeration: true
+[06/09 14:38:54.051681][info][19684][DeviceManager.cpp:25] Current device(s) list: (1)
+[06/09 14:38:54.051722][info][19684][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 14:38:54.323656][info][19684][G330Device.cpp:566] UVCAutoRebootOnFault=true for device: Gemini 335
+[06/09 14:38:54.406280][info][19684][DeviceBase.cpp:665] key: AppSlot,value:2
+[06/09 14:38:54.406292][info][19684][DeviceBase.cpp:665] key: HwType,value:R1
+[06/09 14:38:54.406294][info][19684][DeviceBase.cpp:665] key: HwVer,value:V1.1
+[06/09 14:38:54.406296][info][19684][DeviceBase.cpp:665] key: IspFwVer,value:20241125
+[06/09 14:38:54.406298][info][19684][DeviceBase.cpp:665] key: IspNeedVer,value:20241125
+[06/09 14:38:54.406299][info][19684][DeviceBase.cpp:665] key: PresetVer,value:1.2.2
+[06/09 14:38:54.828999][info][19684][DeviceManager.cpp:199] Device created successfully! Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN FW: 1.4.60
+[06/09 14:38:54.830674][info][19684][Pipeline.cpp:54] [CP0E853000GN] Pipeline created with device: {name: Gemini 335, sn: CP0E853000GN}, @0x256943B3080
+[06/09 14:38:55.037309][info][19684][Pipeline.cpp:228] [CP0E853000GN] Check and set config done!
+[06/09 14:38:55.038713][info][19684][Pipeline.cpp:266] [CP0E853000GN] Try to start streams!
+[06/09 14:38:55.038742][info][19684][VideoSensor.cpp:58] [CP0E853000GN] Try to start stream: {type: Color, format: MJPG, width: 1280, height: 720, fps: 30}
+[06/09 14:38:55.038976][info][19684][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPED to STARTING@Color
+[06/09 14:38:55.038992][info][19684][VideoSensor.cpp:127] [CP0E853000GN] Start backend stream: {type: Color, format: MJPG, width: 1280, height: 720, fps: 30}
+[06/09 14:38:55.055243][info][19684][VideoSensor.cpp:58] [CP0E853000GN] Try to start stream: {type: Depth, format: Y16, width: 848, height: 480, fps: 30}
+[06/09 14:38:55.055337][info][19684][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STOPPED to STARTING@Depth
+[06/09 14:38:55.055360][info][19684][VideoSensor.cpp:127] [CP0E853000GN] Start backend stream: {type: Depth, format: Z16, width: 848, height: 480, fps: 30}
+[06/09 14:38:55.064841][info][19684][Pipeline.cpp:293] [CP0E853000GN] Start streams done!
+[06/09 14:38:55.064850][info][19684][Pipeline.cpp:250] [CP0E853000GN] Pipeline start done!
+[06/09 14:38:55.192728][info][15488][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STARTING to STREAMING@Depth
+[06/09 14:38:55.620322][info][7108][SensorBase.cpp:210] [CP0E853000GN] Stream state changed from STARTING to STREAMING@Color
+[06/09 14:38:55.630605][warning][21512][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset!
+[06/09 14:38:58.640610][warning][32340][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**8 logs in 3009ms, last: 14:38:57.660415**]
+[06/09 14:39:00.189072][info][23520][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=30.193962fps
+[06/09 14:39:00.230070][info][37316][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=30.260801fps
+[06/09 14:39:00.624918][info][7108][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=30.175858fps
+[06/09 14:39:00.658258][info][21512][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=30.236723fps
+[06/09 14:39:05.194838][info][29508][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 14:39:05.236363][info][37316][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.958059fps
+[06/09 14:39:05.630883][info][15488][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 14:39:05.664130][info][21512][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.970030fps
+[06/09 14:39:07.939434][warning][37316][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**11 logs in 9298ms**]
+[06/09 14:39:10.200795][info][23520][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 14:39:10.240930][info][37316][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.976019fps
+[06/09 14:39:10.636214][info][23520][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.970030fps
+[06/09 14:39:10.669494][info][21512][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.964043fps
+[06/09 14:39:15.206585][info][29508][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 14:39:15.248130][info][37316][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.958059fps
+[06/09 14:39:15.641985][info][15488][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.964043fps
+[06/09 14:39:15.674778][info][21512][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.970030fps
+[06/09 14:39:19.974119][warning][20280][Pipeline.cpp:324] [CP0E853000GN] Output frameset queue is full, drop oldest frameset! [**5 logs in 12034ms, last: 14:39:12.213773**]
+[06/09 14:39:20.213074][info][23520][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 14:39:20.257550][info][37316][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.940119fps
+[06/09 14:39:20.648424][info][7108][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.958059fps
+[06/09 14:39:20.682289][info][21512][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.952078fps
+[06/09 14:39:25.219073][info][7108][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.964043fps
+[06/09 14:39:25.272277][info][37316][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.910271fps
+[06/09 14:39:25.653088][info][40096][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.976019fps
+[06/09 14:39:25.686566][info][21512][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.976019fps
+[06/09 14:39:30.225365][info][40096][VideoSensor.cpp:153] [CP0E853000GN] Depth backend frame callback, frameRate=29.958059fps
+[06/09 14:39:30.279081][info][37316][SensorBase.cpp:379] [CP0E853000GN] Depth Streaming... frameRate=29.964043fps
+[06/09 14:39:30.659444][info][23520][VideoSensor.cpp:153] [CP0E853000GN] Color backend frame callback, frameRate=29.958059fps
+[06/09 14:39:30.692994][info][21512][SensorBase.cpp:379] [CP0E853000GN] Color Streaming... frameRate=29.964043fps
+[06/09 14:39:31.373268][info][36544][DeviceManager.cpp:332] Device changed! removed: 1, added: 0
+[06/09 14:39:31.373371][warning][36544][DeviceBase.cpp:207] Device is deactivated or disconnected while there are still sensors streaming!
+[06/09 14:39:31.374979][info][36544][DeviceManager.cpp:25] Removed device(s) list: (1)
+[06/09 14:39:31.375040][info][36544][DeviceManager.cpp:34] 	- Name: Gemini 335, PID: 0x0800, SN/ID: CP0E853000GN, Connection: USB3.2
+[06/09 14:39:31.375053][info][36544][DeviceManager.cpp:25] Current device(s) list: (0)
+[06/09 14:39:32.693077][warning][19684][Pipeline.cpp:335] [CP0E853000GN] Wait for frame timeout, you can try to increase the wait time! current timeout=1000
