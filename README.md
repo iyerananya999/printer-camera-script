@@ -10,3 +10,6 @@ Pseudocode:
 6) Display live frames on screen
 7) If spacebar is pressed, capture frame screenshots
 8) Store in captured images folder
+
+
+GitHub would not let me upload the libraries in the virtual environment, so you need to do Steps 1 and 2 manually before running the script. Also, the camera should be plugged in to your computer to extract data.
